@@ -1,0 +1,17 @@
+{
+  "name": "comic-production-studio",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Local, Codex-orchestrated comic production and publishing packages",
+  "scripts": {
+    "studio": "node scripts/studio.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "demo": "node scripts/demo.mjs"
+  },
+  "engines": { "node": ">=20" },
+  "dependencies": {
+    "@resvg/resvg-js": "2.6.2",
+    "fontkit": "2.0.4"
+  }
+}

@@ -1,0 +1,20 @@
+flowchart TD
+    A[Topic or source folder] --> B[Retrieve canon and relevant history]
+    B --> C[Researcher: source brief]
+    C --> D[Writer: three angles]
+    D --> E[Creator selects angle]
+    E --> F[Script and independent review]
+    F --> G{Script passes?}
+    G -- Yes --> H[Generate artwork from approved references]
+    G -- Revise within limit --> F
+    H --> I[Compose lettering and branding]
+    I --> J{Visual and code checks pass?}
+    J -- Repair within limit --> K[Repair affected panel or layout]
+    K --> I
+    J -- Yes --> L[Final copy, transcript, and package]
+    L --> M[Deliver and record history]
+    M --> N[Manual publication or dry run]
+    N --> O[Supplied feedback and metrics]
+    O --> B
+    G -- Limit reached --> X[Saved draft: needs review]
+    J -- Limit reached --> X

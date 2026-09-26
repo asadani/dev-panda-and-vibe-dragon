@@ -1,0 +1,12 @@
+{
+  "version": "bold-ink-v1",
+  "style": "B — Bold ink",
+  "selection": "Explicit user message: pick b, after approving comparison v2",
+  "authority": "assets/design-options/character-comparison-v2.png, right-hand B treatment",
+  "reference": "assets/characters/bold-ink-v1/reference-sheet.png",
+  "sha256": "7c08082d209add6066fe75ee5f4789b78e036791719a3b6feca2ffb66e429aff",
+  "generation": "Codex built-in image generation",
+  "prompt": "assets/characters/bold-ink-v1/prompt.txt",
+  "review": "Inspected generated sheet: Panda spectacles in all appearances; Dragon mature focused expression, no elderly features; bold contour and grey fills consistent. Bust-angle sheet, not a full-body turnaround.",
+  "approvalScope": "User selected B; derivative reference sheet produced under that instruction, not separately user-reviewed."
+}

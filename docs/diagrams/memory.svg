@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="780" viewBox="0 0 1120 780" role="img" aria-labelledby="title desc">
+<title id="title">Creative memory relationships</title>
+<desc id="desc">Local linked Markdown is authoritative; graph indexes are derived. Missing metrics remain unknown, never zero.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#64748b"/></marker></defs>
+<rect width="1120" height="780" fill="#fffaf0"/>
+<text x="48" y="56" font-family="Arial,sans-serif" font-size="28" font-weight="700" fill="#163c3a">Creative memory relationships</text>
+<path d="M420,336 L258,146" fill="none" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="344.0" y="234.0" font-family="Arial,sans-serif" font-size="12" fill="#475569">uses</text>
+<path d="M525,300 L525,182" fill="none" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="530.0" y="234.0" font-family="Arial,sans-serif" font-size="12" fill="#475569">cites</text>
+<path d="M630,336 L792,146" fill="none" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="716.0" y="234.0" font-family="Arial,sans-serif" font-size="12" fill="#475569">selected through</text>
+<path d="M420,336 L258,526" fill="none" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="344.0" y="424.0" font-family="Arial,sans-serif" font-size="12" fill="#475569">receives</text>
+<path d="M792,336 L630,336" fill="none" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="716.0" y="329.0" font-family="Arial,sans-serif" font-size="12" fill="#475569">compares</text>
+<path d="M258,526 L420,526" fill="none" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="344.0" y="519.0" font-family="Arial,sans-serif" font-size="12" fill="#475569">supports</text>
+<path d="M792,336 L630,526" fill="none" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="716.0" y="424.0" font-family="Arial,sans-serif" font-size="12" fill="#475569">supports</text>
+<path d="M525,562 L525,636" fill="none" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="530.0" y="592.0" font-family="Arial,sans-serif" font-size="12" fill="#475569">if accepted</text>
+<path d="M792,526 L630,672" fill="none" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="716.0" y="592.0" font-family="Arial,sans-serif" font-size="12" fill="#475569">constrains</text>
+<rect x="420" y="300" width="210" height="72" rx="12" fill="white" stroke="#32827b" stroke-width="2"/>
+<text x="525" y="329" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#163c3a">Episode</text>
+<text x="525" y="350" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#163c3a">Stable ID and summary</text>
+<rect x="48" y="110" width="210" height="72" rx="12" fill="white" stroke="#32827b" stroke-width="2"/>
+<text x="153" y="139" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#163c3a">Approved canon</text>
+<text x="153" y="160" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#163c3a">Character / style version</text>
+<rect x="420" y="110" width="210" height="72" rx="12" fill="white" stroke="#32827b" stroke-width="2"/>
+<text x="525" y="139" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#163c3a">Sources + topic</text>
+<text x="525" y="160" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#163c3a">Evidence and locators</text>
+<rect x="792" y="110" width="210" height="72" rx="12" fill="white" stroke="#32827b" stroke-width="2"/>
+<text x="897" y="139" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#163c3a">Decision</text>
+<text x="897" y="160" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#163c3a">Choice and alternatives</text>
+<rect x="48" y="490" width="210" height="72" rx="12" fill="white" stroke="#32827b" stroke-width="2"/>
+<text x="153" y="519" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#163c3a">Feedback</text>
+<text x="153" y="540" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#163c3a">Observed, not inferred</text>
+<rect x="792" y="300" width="210" height="72" rx="12" fill="white" stroke="#32827b" stroke-width="2"/>
+<text x="897" y="329" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#163c3a">Experiment</text>
+<text x="897" y="350" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#163c3a">Variants and window</text>
+<rect x="420" y="490" width="210" height="72" rx="12" fill="white" stroke="#32827b" stroke-width="2"/>
+<text x="525" y="519" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#163c3a">Proposed lesson</text>
+<text x="525" y="540" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#163c3a">Requires acceptance</text>
+<rect x="792" y="490" width="210" height="72" rx="12" fill="white" stroke="#32827b" stroke-width="2"/>
+<text x="897" y="519" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#163c3a">Explicit preference</text>
+<text x="897" y="540" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#163c3a">Scoped ongoing rule</text>
+<rect x="420" y="636" width="210" height="72" rx="12" fill="white" stroke="#32827b" stroke-width="2"/>
+<text x="525" y="665" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#163c3a">Future decision</text>
+<text x="525" y="686" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#163c3a">Relevant accepted memory</text>
+<text x="48" y="748" font-family="Arial,sans-serif" font-size="14" fill="#475569">Local linked Markdown is authoritative; graph indexes are derived. Missing metrics remain unknown, never zero.</text>
+</svg>

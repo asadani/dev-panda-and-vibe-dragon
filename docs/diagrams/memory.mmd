@@ -1,0 +1,12 @@
+flowchart LR
+    EP[Episode] -->|uses| CH[Approved canon version]
+    EP -->|explores| TP[Topic]
+    EP -->|supported by| SO[Source]
+    EP -->|selected through| DE[Decision]
+    EP -->|received| FB[Feedback]
+    EX[Experiment] -->|compares| EP
+    FB -->|supports| LE[Proposed lesson]
+    EX -->|supports| LE
+    LE -->|accepted lessons inform| ND[Future decision]
+    UP[Explicit ongoing preference] -->|constrains| ND
+    DE -->|may be superseded by| ND

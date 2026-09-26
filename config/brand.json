@@ -1,0 +1,16 @@
+{
+  "version": "brand-v1-bold-ink",
+  "name": "Dev Panda & Vibe Dragon",
+  "author": "Anuj Sadani",
+  "url": "devpandaandvibedragon.substack.com",
+  "background": "#f7f2e8",
+  "ink": "#252923",
+  "accent": "#b8cf69",
+  "font": "Comic Neue",
+  "masterWidth": 1600,
+  "minimumPreviewFontPx": 16,
+  "previewWidth": 390,
+  "designStatus": "selected-bold-ink",
+  "canonVersion": "bold-ink-v1",
+  "referenceImages": ["assets/characters/bold-ink-v1/reference-sheet.png"]
+}

@@ -1,0 +1,15 @@
+flowchart TB
+    U[Creator: topic, sources, choices] --> P[Producer in Codex]
+    S[Production skill and series pack] -. guides .-> P
+    P <--> R[Researcher]
+    P <--> W[Writer]
+    P <--> V[Independent Reviewer]
+    P --> I[Codex image generation]
+    P --> L[Local renderer and validators]
+    P <--> E[Episode files and state]
+    P <--> M[Versioned creative memory]
+    M <--> O[Optional Obsidian]
+    L --> D[Platform export packages]
+    D --> X[Current: manual handoff and dry run]
+    D -. future .-> A[Authenticated publishing adapters]
+    A -. receipts .-> E

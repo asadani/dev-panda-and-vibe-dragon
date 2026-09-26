@@ -1,0 +1,14 @@
+node_modules/
+__pycache__/
+.env
+.env.*
+!.env.example
+.obsidian/workspace.json
+.obsidian/workspaces.json
+tmp/
+.venv-web/
+.web-cache/
+episodes/
+.research/
+research/
+*.zip
