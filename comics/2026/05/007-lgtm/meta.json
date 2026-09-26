@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "issue": 7,
+  "slug": "lgtm",
+  "title": "LGTM",
+  "author": {
+    "name": "Anuj Sadani",
+    "github": "asadani"
+  },
+  "status": "published",
+  "createdAt": null,
+  "publishedAt": "2026-05-13",
+  "summary": "A huge AI-generated change prompts a conversation about debugging, regeneration and responsibility.",
+  "tags": [
+    "code-review",
+    "agents"
+  ],
+  "artwork": "comic.png",
+  "details": "details.md",
+  "publications": {
+    "substack": "https://devpandaandvibedragon.substack.com/p/lgtm"
+  },
+  "verification": {
+    "source": "https://devpandaandvibedragon.substack.com/p/lgtm",
+    "checkedOn": "2026-09-26",
+    "method": "Public Substack article and archive inspected in browser",
+    "numbering": "Assigned from publication order; original title unnumbered"
+  }
+}

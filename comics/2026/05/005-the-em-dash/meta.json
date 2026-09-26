@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "issue": 5,
+  "slug": "the-em-dash",
+  "title": "The em dash",
+  "author": {
+    "name": "Anuj Sadani",
+    "github": "asadani"
+  },
+  "status": "published",
+  "createdAt": null,
+  "publishedAt": "2026-05-04",
+  "summary": "Panda complains about AI-written text. Dragon jokes about bad writing becoming endlessly reproducible.",
+  "tags": [
+    "ai",
+    "writing"
+  ],
+  "artwork": "comic.png",
+  "details": "details.md",
+  "publications": {
+    "substack": "https://devpandaandvibedragon.substack.com/p/the-em-dash"
+  },
+  "verification": {
+    "source": "https://devpandaandvibedragon.substack.com/p/the-em-dash",
+    "checkedOn": "2026-09-26",
+    "method": "Public Substack article and archive inspected in browser",
+    "numbering": "Original issue number"
+  }
+}

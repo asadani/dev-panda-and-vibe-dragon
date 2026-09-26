@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "issue": 1,
+  "slug": "what-is-more-important",
+  "title": "What is more important?",
+  "author": {
+    "name": "Anuj Sadani",
+    "github": "asadani"
+  },
+  "status": "published",
+  "createdAt": null,
+  "publishedAt": "2026-04-29",
+  "summary": "Panda asks whether context or the model matters more. Dragon answers with a token-budget joke.",
+  "tags": [
+    "ai",
+    "token-costs"
+  ],
+  "artwork": "comic.png",
+  "details": "details.md",
+  "publications": {
+    "substack": "https://devpandaandvibedragon.substack.com/p/01-what-is-more-important"
+  },
+  "verification": {
+    "source": "https://devpandaandvibedragon.substack.com/p/01-what-is-more-important",
+    "checkedOn": "2026-09-26",
+    "method": "Public Substack article and archive inspected in browser",
+    "numbering": "Original issue number"
+  },
+  "alternateArtwork": [
+    "alternate.png"
+  ]
+}

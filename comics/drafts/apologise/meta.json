@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "issue": null,
+  "slug": "apologise",
+  "title": "Apologise",
+  "author": {
+    "name": "Anuj Sadani",
+    "github": "asadani"
+  },
+  "status": "draft",
+  "createdAt": null,
+  "publishedAt": null,
+  "summary": "Panda and Dragon discuss agent-written code, mistakes and the work of apologizing for them.",
+  "tags": [
+    "agents"
+  ],
+  "artwork": "comic.png",
+  "details": "details.md",
+  "publications": {},
+  "verification": {
+    "checkedOn": "2026-09-26",
+    "note": "No matching published post found in the public Substack archive. Publication date unknown."
+  }
+}

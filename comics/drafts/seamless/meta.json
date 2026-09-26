@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "issue": null,
+  "slug": "seamless",
+  "title": "Seamless",
+  "author": {
+    "name": "Anuj Sadani",
+    "github": "asadani"
+  },
+  "status": "draft",
+  "createdAt": "2026-09-26",
+  "publishedAt": null,
+  "summary": "A provider fails before a demo. A tested fallback saves the export while Dragon’s shaking coffee reveals his nerves.",
+  "tags": [
+    "routing",
+    "fallback"
+  ],
+  "artwork": "comic.png",
+  "details": "details.md",
+  "publications": {},
+  "verification": {
+    "checkedOn": "2026-09-26",
+    "note": "No matching published post found in the public Substack archive. Publication date unknown."
+  }
+}

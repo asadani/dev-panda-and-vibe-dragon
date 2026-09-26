@@ -12,3 +12,14 @@ episodes/
 .research/
 research/
 *.zip
+.local/
+.local-archive/
+.venv/
+venv/
+.npmrc
+*.pem
+*.key
+credentials.json
+service-account*.json
+.DS_Store
+Thumbs.db

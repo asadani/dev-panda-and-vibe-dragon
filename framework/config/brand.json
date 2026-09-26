@@ -1,0 +1,19 @@
+{
+  "version": "brand-v2-editorial-ink",
+  "name": "Dev Panda & Vibe Dragon",
+  "author": "Anuj Sadani",
+  "url": "devpandaandvibedragon.substack.com",
+  "background": "#f7f2e8",
+  "ink": "#252923",
+  "accent": "#b8cf69",
+  "font": "Comic Neue",
+  "masterWidth": 1600,
+  "minimumPreviewFontPx": 16,
+  "previewWidth": 390,
+  "designStatus": "editorial-ink-reference",
+  "canonVersion": "editorial-ink-v2",
+  "referenceImages": [
+    "../comics/2026/05/004-tool-addiction/comic.png",
+    "../comics/2026/04/002-fairness/comic.png"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "issue": 4,
+  "slug": "tool-addiction",
+  "title": "Tool Addiction",
+  "author": {
+    "name": "Anuj Sadani",
+    "github": "asadani"
+  },
+  "status": "published",
+  "createdAt": null,
+  "publishedAt": "2026-05-02",
+  "summary": "Panda discovers yet another transformative AI tool. Dragon questions whether the workflow is improving or just accumulating distractions.",
+  "tags": [
+    "tools",
+    "focus"
+  ],
+  "artwork": "comic.png",
+  "details": "details.md",
+  "publications": {
+    "substack": "https://devpandaandvibedragon.substack.com/p/tool-addiction"
+  },
+  "verification": {
+    "source": "https://devpandaandvibedragon.substack.com/p/tool-addiction",
+    "checkedOn": "2026-09-26",
+    "method": "Public Substack article and archive inspected in browser",
+    "numbering": "Original issue number"
+  }
+}
